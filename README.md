@@ -1,6 +1,10 @@
-# openjiritsu
+# OpenJiritsu
 
 OpenJiritsu provides a flexible platform to interface Jiritsu Client Fleets with Jiritsu Infrastructure Services.
+
+##Overview
+
+##Collaboration in Automotive
 
 ## Guides
 
