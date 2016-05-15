@@ -4,9 +4,9 @@ OpenJiritsu provides a flexible platform to interface Jiritsu Client Fleets with
 
 ## Guides
 
-[Machine Booting](Documentation/machine-booting.md)  
-[Interface Process](Documentation/interface-process.md)  
-[Jiritsu-Config](Documentation/jiritsu-config.md)  
-[OpenJiritsu Tools](Documentation/openjiritsu-tools.md)   
+[Machine Booting](machine-booting.md)  
+[Interface Process](interface-process.md)  
+[Jiritsu-Config](jiritsu-config.md)  
+[OpenJiritsu Tools](openjiritsu-tools.md)   
 
 
