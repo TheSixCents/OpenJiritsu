@@ -1,7 +1,7 @@
 #OpenJiritsu
 
 OpenJiritsu provides a flexible and modular platform to interface Jiritsu Client Fleets with Jiritsu Infrastructure Services.
-OpenJiritsu will be platform agnostic to iOS, Android, or Windows Phone connected vehicle environments.
+OpenJiritsu will be platform agnostic to iOS or Android connected vehicle environments.
 
 ##Overview
 
