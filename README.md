@@ -1,13 +1,13 @@
-#OpenJiritsu
+#Open-Jiritsu
 
 ![ac logo](JGhub.Readme.png)
 
-OpenJiritsu provides a flexible and modular platform to interface Jiritsu Client Fleets with Jiritsu Infrastructure Services.
-OpenJiritsu will be platform agnostic to iOS, Android, or Microsoft connected vehicle environments.
+Open-Jiritsu provides a flexible and modular platform to interface Jiritsu Client Fleets with Jiritsu Infrastructure Services.
+Open-Jiritsu will be platform agnostic to iOS, Android, or Microsoft connected vehicle environments.
 
 ##Overview
 
-* [Using OpenJiritsu](documentation/using-openjiritsu.md)    
+* [Using Open-Jiritsu](documentation/using-openjiritsu.md)    
 * [Integrate Your Code](documentation/code-integration.md)  
 
 ##Collaboration in Automotive
@@ -19,7 +19,7 @@ OpenJiritsu will be platform agnostic to iOS, Android, or Microsoft connected ve
 * [Machine Booting](documentation/machine-booting.md)  
 * [Interface Process](documentation/interface-process.md)  
 * [Jiritsu-Config](documentation/jiritsu-config.md)  
-* [OpenJiritsu Tools](documentation/openjiritsu-tools.md)   
+* [Open-Jiritsu Tools](documentation/openjiritsu-tools.md)   
 
 
 
